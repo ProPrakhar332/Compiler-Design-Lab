@@ -21,4 +21,4 @@
 
 </p>
 
-<img src="screenshot.png">
+<img src="Screenshot.png">
